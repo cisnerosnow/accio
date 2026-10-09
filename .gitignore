@@ -1,0 +1,10 @@
+venv/
+__pycache__/
+
+# Colecciones descargadas y salidas generadas (regenerables con el pipeline)
+alchemy/
+rosicrucian/
+preterhuman_books/
+*.pdf
+*.txt
+!requirements*.txt
